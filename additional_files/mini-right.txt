@@ -1,0 +1,10 @@
+../mini_project/11_1.jpg
+../mini_project/11_2.jpg
+../mini_project/11_3.jpg
+../mini_project/11_4.jpg
+../mini_project/11_5.jpg
+../mini_project/11_6.jpg
+../mini_project/11_7.jpg
+../mini_project/11_8.jpg
+../mini_project/11_9.jpg
+../mini_project/11_10.jpg
